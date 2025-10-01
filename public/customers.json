@@ -1,0 +1,111 @@
+[
+    {
+      "id": "0001",
+      "title": "Login Issue",
+      "description": "User cannot log in with valid credentials.",
+      "customer": "Sayem Ahmed",
+      "priority": "High",
+      "status": "In-Progress",
+      "createdAt": "2025-09-20"
+    },
+    {
+      "id": "0002",
+      "title": "Payment Failure",
+      "description": "Customer reports payment not going through.",
+      "customer": "Mahin Hasan",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2025-09-21"
+    },
+    {
+      "id": "0003",
+      "title": "Page Not Loading",
+      "description": "The dashboard page keeps showing a blank screen.",
+      "customer": "Najma Begum",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2025-09-18"
+    },
+    {
+      "id": "0004",
+      "title": "Email Not Sent",
+      "description": "Confirmation emails are not being delivered.",
+      "customer": "Rahat Karim",
+      "priority": "High",
+      "status": "In-Progress",
+      "createdAt": "2025-09-19"
+    },
+    {
+      "id": "0005",
+      "title": "App Crash",
+      "description": "Mobile app crashes when submitting a form.",
+      "customer": "Mehjabin Chowdhury",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2025-09-22"
+    },
+    {
+      "id": "0006",
+      "title": "Slow Performance",
+      "description": "Website is very slow during checkout.",
+      "customer": "Tanvir Islam",
+      "priority": "Medium",
+      "status": "In-Progress",
+      "createdAt": "2025-09-23"
+    },
+    {
+      "id": "0007",
+      "title": "Password Reset Error",
+      "description": "User unable to reset password via email link.",
+      "customer": "Sabrina Akter",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2025-09-15"
+    },
+    {
+      "id": "0008",
+      "title": "Data Sync Issue",
+      "description": "Data between mobile and web app not syncing.",
+      "customer": "Ariful Rahman",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2025-09-16"
+    },
+    {
+      "id": "0009",
+      "title": "UI Bug on Checkout",
+      "description": "Button overlaps text on checkout page.",
+      "customer": "Farhana Sultana",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2025-09-14"
+    },
+    {
+      "id": "0010",
+      "title": "Notifications Delayed",
+      "description": "Push notifications are delayed by 10 minutes.",
+      "customer": "Ziad Hossain",
+      "priority": "Medium",
+      "status": "In-Progress",
+      "createdAt": "2025-09-24"
+    },
+    {
+      "id": "0011",
+      "title": "Subscription Error",
+      "description": "Customer cannot renew subscription plan.",
+      "customer": "Afroza Rahman",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2025-09-25"
+    },
+    {
+      "id": "0012",
+      "title": "Search Not Working",
+      "description": "Search bar does not return relevant results.",
+      "customer": "Rakibul Alam",
+      "priority": "Medium",
+      "status": "In-Progress",
+      "createdAt": "2025-09-12"
+    }
+  ]
+  
